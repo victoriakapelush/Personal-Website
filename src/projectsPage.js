@@ -55,7 +55,7 @@ function projectsPage () {
   const imgCalculator = document.createElement('img')
   const calcLink = document.createElement('a')
   main.appendChild(calcLink)
-  imgCalculator.setAttribute('src', '/Users/victoria/Desktop/Portfolio/dist/img/calculator.png')
+  imgCalculator.setAttribute('src', '/Users/victoria/Desktop/Personal-Website/dist/img/calculator.png')
   imgCalculator.style.height = '350px'
   imgCalculator.style.width = '400px'
   calcLink.appendChild(imgCalculator)
@@ -71,7 +71,7 @@ function projectsPage () {
   const imgEtch = document.createElement('img')
   const etchLink = document.createElement('a')
   main.appendChild(etchLink)
-  imgEtch.setAttribute('src', '/Users/victoria/Desktop/Portfolio/dist/img/etchasketch.png')
+  imgEtch.setAttribute('src', '/Users/victoria/Desktop/Personal-Website/dist/img/etchasketch.png')
   imgEtch.style.height = '350px'
   imgEtch.style.width = '400px'
   etchLink.appendChild(imgEtch)
@@ -87,7 +87,7 @@ function projectsPage () {
   const imgTic = document.createElement('img')
   const ticLink = document.createElement('a')
   main.appendChild(ticLink)
-  imgTic.setAttribute('src', '/Users/victoria/Desktop/Portfolio/dist/img/tic-tac-toe.png')
+  imgTic.setAttribute('src', '/Users/victoria/Desktop/Personal-Website/dist/img/tic-tac-toe.png')
   imgTic.style.height = '350px'
   imgTic.style.width = '400px'
   ticLink.appendChild(imgTic)
@@ -103,7 +103,7 @@ function projectsPage () {
   const imgLib = document.createElement('img')
   const libLink = document.createElement('a')
   main.appendChild(libLink)
-  imgLib.setAttribute('src', '/Users/victoria/Desktop/Portfolio/dist/img/virtual-library.png')
+  imgLib.setAttribute('src', '/Users/victoria/Desktop/Personal-Website/dist/img/virtual-library.png')
   imgLib.style.height = '350px'
   imgLib.style.width = '400px'
   libLink.appendChild(imgLib)
